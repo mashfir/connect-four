@@ -1,1 +1,1 @@
-# connect-four
+Basic command line based connect four game
